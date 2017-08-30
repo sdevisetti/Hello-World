@@ -1,4 +1,5 @@
 #!/bin/ksh
 
-echo "HelloWorld"
-echo "Hello GitHub"
+echo "Welcome to GitHub"
+echo "Hello World"
+echo "Welcome Subbu, Happy using GitHub"
